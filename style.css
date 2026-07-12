@@ -484,3 +484,62 @@ button{
 }
 
 /* ai section end */
+
+/* footer section start*/
+
+.footer{
+    background: #0F1E2E;
+    padding: 28px 0;
+}
+
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer p{
+    color: #94A3B8;
+    font-size: 14px;
+}
+
+.footer-links{
+    display: flex;
+    gap: 30px;
+}
+
+.footer-links a{
+    color: #94A3B8;
+    text-decoration: none;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+
+.footer{
+    background: #0F1E2E;
+    padding: 28px 0;
+}
+
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer p{
+    color: #94A3B8;
+    font-size: 14px;
+}
+
+.footer-links{
+    display: flex;
+    gap: 30px;
+}
+
+.footer-links a{
+    color: #94A3B8;
+    text-decoration: none;
+    font-size: 14px;
+}
+
